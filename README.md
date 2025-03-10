@@ -18,7 +18,7 @@
 </p>
 
 
-##Portofolio:
+## Portofolio:
 
-###Work in Progress
--[PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot Back-End / React.js Front-End)
+### Work in Progres:
+- [PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot Back-End / React.js Front-End)
