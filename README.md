@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Computer Science at Babeș-Bolyai University in Cluj-Napoca, Romania
 - 💡 I’m passionate about Software Development and Object-Oriented Programming
-- 🔭 I’m currently working on an app development project
 - 🎯 My goal is to become a full-stack developer
 - 👯 I’m looking to collaborate on any kind of projects
 - 📫 How to reach me: **alexiavoina2004@gmail.com**
@@ -17,3 +16,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+
+##Portofolio:
+
+###Work in Progress
+-[PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot Back-End / React.js Front-End)
