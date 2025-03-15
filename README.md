@@ -22,3 +22,9 @@
 
 ### Work in Progres:
 - [PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot Back-End / React.js Front-End)
+- [GameStoreApp](https://github.com/AlexiaVoina/GameStoreAppFinal) (Java)
+
+### Completed:
+- [FruitApp](https://github.com/AlexiaVoina/FruitApp) (C++)
+- [Restaurant](https://github.com/AlexiaVoina/Restaurant) (Python)
+- [CarSharingApp] (C++)
